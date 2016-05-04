@@ -1,0 +1,24 @@
+{
+  "name": "header-parser-r282",
+  "version": "1.0.2",
+  "description": "Lets you get the IP, language and OS for the browser making the request.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoayush/request-header.gitt"
+  },
+  "keywords": [
+    "API",
+    "leoayush",
+    "IP",
+    "Header"
+  ],
+  "author": "Ayush (leoayush) Jha",
+  "homepage": "https://github.com/Rafase282/header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
