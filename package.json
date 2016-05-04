@@ -17,7 +17,7 @@
     "Header"
   ],
   "author": "Ayush (leoayush) Jha",
-  "homepage": "https://github.com/Rafase282/header-parser#readme",
+  "homepage": "https://github.com/leoayush/request-header",
   "dependencies": {
     "express": "^4.13.3"
   }
